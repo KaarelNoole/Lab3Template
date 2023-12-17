@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name":"Basil","description":"Basil, also called great basil, is a culinary herb of the family Lamiaceae. ", "latinName": "Ocimum basilicum"},
+  {"id": 2, "name":"Rose","description":"A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.", "latinName": "Rosa"},
+  {"id": 3, "name":"Mango","description":"The origin center of the mango is located in Southeast Asia. ", "latinName": "Mangifera Indica L"},
+  {"id": 4, "name":"Grapevines","description":"Vitis is a genus of 79 accepted species of vining plants in the flowering plant family Vitaceae. ", "latinName": "Vitis"},
+  {"id": 5, "name":"Tomatoes","description": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant. ", "latinName": "Solanum lycopersicum"},
+  {"id": 6, "name":"Bell Pepper","description": "The bell pepper is the fruit of plants in the Grossum cultivar group of the species Capsicum annuum. ", "latinName": "Capsicum annuum"}
+]
